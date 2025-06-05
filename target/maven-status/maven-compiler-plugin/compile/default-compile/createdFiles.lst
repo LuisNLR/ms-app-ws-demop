@@ -1,0 +1,8 @@
+pe\com\softlite\dtos\RespuestaOK.class
+pe\com\softlite\dtos\DatosSalidaOk.class
+pe\com\softlite\dtos\DatosSalidaFail.class
+pe\com\softlite\dtos\Entrada.class
+pe\com\softlite\notifications\controller\DemoController.class
+pe\com\softlite\dtos\Datos.class
+pe\com\softlite\dtos\RespuestaFail.class
+pe\com\softlite\notifications\StartApplication.class
